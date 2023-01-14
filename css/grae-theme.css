@@ -1,0 +1,31 @@
+/****start default theme  ****/
+/* active link */
+.navbar-expand-lg .navbar-nav .active,
+.dropdown-item:hover,
+.dropdown-item:focus,
+.dropdown hr,
+.features,
+.price-table,
+.price-table .price-pox p,
+.subscribe,
+.our-clients,
+.option-box .gear-check,
+#scroll-top
+{
+    background-color:#6c757d;
+}
+.navbar-brand span,
+.about h1,
+.about p span,
+.testimonials .carousel-item div,
+.statistics .stats:hover,
+.footer .copy-right span{
+    color:#6c757d;
+}
+.testimonials .carousel-indicators button.active{
+    border: 5px solid #6c757d; 
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+    border-top: 3px solid #6c757d;
+}
+/****end default theme  ****/
